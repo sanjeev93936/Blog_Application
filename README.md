@@ -32,6 +32,7 @@ $ npm start (to start the frontend)
 ```
 
 In the second terminal
+
 - Create your mongoDB connection url, which you'll use as your MONGO_URI
 - Supply the following credentials
 
@@ -39,7 +40,7 @@ In the second terminal
 # --- Terminal ---
 
 $ npm install (to install backend-side dependencies)
-$ npm start (to start the backend)
+$ nodemon index.js (to start the backend)
 ```
 
 ##  Key Features
