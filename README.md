@@ -87,37 +87,25 @@ This project was created using the following technologies.
  - [MongoDB ](https://www.mongodb.com/) - It provides a free cloud service to store MongoDB collections.
  
  ##  Screenshots 
- 
-
-![1](https://user-images.githubusercontent.com/111676859/226197211-8abc5de5-7659-4811-b28a-ef885de64267.png)
----- -
-![2](https://user-images.githubusercontent.com/111676859/226197288-1f0cf951-dd30-464f-b70a-10c449fe33b4.png)
---- - 
-![3](https://user-images.githubusercontent.com/111676859/226197295-e9525dd5-1346-4951-a1c8-d5620166d7aa.png)
---- - 
-![4](https://user-images.githubusercontent.com/111676859/226197298-ca0f5b6e-f523-4040-98a8-b92a17bbe22e.png)
---- - 
-![5](https://user-images.githubusercontent.com/111676859/226197303-5d8a1a39-07f7-409f-8614-12d0ca0b2836.png)
---- - 
-![6](https://user-images.githubusercontent.com/111676859/226197307-1d95a1f6-147a-4edb-b899-449c90c07713.png)
---- - 
-![7](https://user-images.githubusercontent.com/111676859/226197312-b7bf6ae6-2c05-4b1d-bc25-4262af3f04f2.png)
---- - 
-![8](https://user-images.githubusercontent.com/111676859/226197316-eb387e87-9690-44ca-b138-f15b03bed7d4.png)
---- - 
-![9](https://user-images.githubusercontent.com/111676859/226197324-dcbad05b-2283-4ef5-bae9-2da8d09d55c9.png)
---- - 
-![10](https://user-images.githubusercontent.com/111676859/226197329-025091a0-642b-4d68-ac4e-f365e0e78e82.png)
---- - 
-![11](https://user-images.githubusercontent.com/111676859/226197338-3e530bc6-e7bf-4e4a-9284-165f85be47d2.png)
+### This is the Authentication Section
+### Register
+![Screenshot 2023-09-16 223125](https://github.com/sanjeev93936/Blog_Application/assets/108318474/f8899220-f80f-4bf4-b4a0-dcc2ea72217a)
+### Login
+![Screenshot 2023-09-16 223149](https://github.com/sanjeev93936/Blog_Application/assets/108318474/b82b437a-8549-4a9c-9818-95052eda35a4)
+### This is the Home Section
+![Screenshot 2023-09-16 223213](https://github.com/sanjeev93936/Blog_Application/assets/108318474/4512e6b7-b5dc-4bbf-8a4e-1a655449a43a)
+![Screenshot 2023-09-16 223514](https://github.com/sanjeev93936/Blog_Application/assets/108318474/b500055f-0141-48bd-bf92-5eb476040a19)
+### This is the Create new Post Section
+![Screenshot 2023-09-16 223257](https://github.com/sanjeev93936/Blog_Application/assets/108318474/c998fc06-3e8d-406c-bc7b-ab739b6cb09b)
+### This is the   Post Section
+![Screenshot 2023-09-16 223420](https://github.com/sanjeev93936/Blog_Application/assets/108318474/900aadc2-fd03-4948-943c-75831553f618)
+### This is the Update Post Section
+![Screenshot 2023-09-16 223438](https://github.com/sanjeev93936/Blog_Application/assets/108318474/9df841a3-3740-421b-9317-b2bbdeaa4889)
+![Screenshot 2023-09-16 223451](https://github.com/sanjeev93936/Blog_Application/assets/108318474/7de6cfd1-ed3b-484b-8e05-984ee96f6c30)
 
 ## Author
-- Github: [berthutapea](https://github.com/berthutapea)
-- Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
-- Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
+### Sanjeev Madhavarapu
 
- PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+<a href="https://linkedin.com/in/sanjeev-madhavarapu-92a389237/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="payalpatra105" height="30" width="40" /></a>
+<a href="https://instagram.com/
+sanjeev_madhavarapu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="p_iconic_" height="30" width="40" /></a>
